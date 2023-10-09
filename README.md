@@ -10,7 +10,7 @@ This repository contains a data analysis and model building project with four ma
 
 2. **02_data_visualization**: This section focuses on data visualization, where we explore the dataset through various graphs and charts to gain insights.
 
-3. **03_data_transformation.ipynb**: Data transformation is a crucial step where we preprocess the data for model building. This includes feature engineering, encoding categorical variables, and scaling.
+3. **03_data_transformation.ipynb**: Data transformation is a crucial step where we preprocess the data for model building. This includes feature engineering, encoding categorical variables.
 
 4. **04_model_building_and_evaluation**: In the final step, we build and evaluate machine learning models using the prepared data.
 
